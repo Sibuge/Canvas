@@ -1,0 +1,13 @@
+*.pyc
+*.ilp
+__pycache__
+*.egg-info
+*.vscode
+*.npy
+*.xml
+*.sccl.json
+All*.json
+Coll*.json
+*.pkl
+*.lp
+*.sh
